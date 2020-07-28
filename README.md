@@ -111,6 +111,7 @@ Contribution guidelines:
 * [JobScout24](https://www.jobscout24.ch/en) (EN)
 * [jobwinner](https://jobwinner.ch/en/) (EN)
 * [SwissDevJobs](https://swissdevjobs.ch/) (EN)
+* [WeJob.ch](https://WeJob.ch) (EN|FR|DE)
 
 ## United Kindom
 * [CWJobs.co.uk](https://www.cwjobs.co.uk/)
