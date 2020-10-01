@@ -69,6 +69,7 @@ Contribution guidelines:
 
 ## Germany
 * [Berlin Startup Jobs](https://berlinstartupjobs.com/) (EN, jobs in Berlin)
+* [GermanTech Jobs](https://germantechjobs.de/) (EN / DE)
 * [StepStone](https://www.stepstone.de/en/) (EN)
 
 ## Ireland
