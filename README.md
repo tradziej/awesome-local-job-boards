@@ -68,6 +68,7 @@ Contribution guidelines:
 * [CV Keskus](https://www.cvkeskus.ee/) (EN)
 
 ## Germany
+* [arbeitnow](https://www.arbeitnow.com) (EN, jobs in Germany)
 * [Berlin Startup Jobs](https://berlinstartupjobs.com/) (EN, jobs in Berlin)
 * [StepStone](https://www.stepstone.de/en/) (EN)
 
