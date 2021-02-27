@@ -117,6 +117,7 @@ Contribution guidelines:
 
 ## United Kindom
 * [CWJobs.co.uk](https://www.cwjobs.co.uk/)
+* [DevITjobs.uk](https://devitjobs.uk/)
 * [Gumtree](https://www.gumtree.com/jobs/)
 * [Indeed](https://www.indeed.co.uk/)
 * [Jobrapido](https://uk.jobrapido.com/)
