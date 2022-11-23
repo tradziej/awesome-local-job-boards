@@ -56,6 +56,9 @@ Contribution guidelines:
 * [SEEK](https://www.seek.co.nz/)
 
 # Europe
+## Austria
+* [zuhausejobs.com](https://zuhausejobs.com) (DE)
+
 ## Belgium
 * [StepStone](https://www.stepstone.be/en/) (EN)
 * [Indeed](https://be.indeed.com/) (EN)
@@ -72,6 +75,7 @@ Contribution guidelines:
 * [Berlin Startup Jobs](https://berlinstartupjobs.com/) (EN, jobs in Berlin)
 * [GermanTech Jobs](https://germantechjobs.de/) (EN / DE)
 * [StepStone](https://www.stepstone.de/en/) (EN)
+* [zuhausejobs.com](https://zuhausejobs.com) (DE)
 
 ## Ireland
 * [Indeed](https://ie.indeed.com/)
@@ -114,6 +118,7 @@ Contribution guidelines:
 * [jobwinner](https://jobwinner.ch/en/) (EN)
 * [SwissDevJobs](https://swissdevjobs.ch/) (EN)
 * [WeJob.ch](https://WeJob.ch) (EN|FR|DE)
+* [zuhausejobs.com](https://zuhausejobs.com) (DE)
 
 ## United Kindom
 * [CWJobs.co.uk](https://www.cwjobs.co.uk/)
