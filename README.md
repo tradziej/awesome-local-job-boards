@@ -139,6 +139,7 @@ Contribution guidelines:
 * [Jobillico](https://www.jobillico.com/en)
 * [Monster](https://www.monster.ca/)
 * [WorkBC](https://www.workbc.ca/) (jobs in British Columbia)
+* [Freel](https://www.freel.ca/) (Freelancing jobs in Canada)
 
 ## USA
 * [Crunchboard Job Board](https://www.crunchboard.com/)
@@ -146,6 +147,7 @@ Contribution guidelines:
 * [Hired](https://hired.com/jobs/)
 * [Portland Tech Jobs](http://portlandtech.org/) (jobs in Portland)
 * [Simply Hired](https://www.simplyhired.com/)
+* [Dataaxy](https://dataaxy.com/) (Job board & reverse job board specialized in Data & AI Jobs and talents)
 
 # South America
 ## Brazil
