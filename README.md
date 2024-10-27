@@ -156,3 +156,7 @@ Contribution guidelines:
 * [Get on Board](https://www.getonbrd.cl/)
 * [Indeed](https://www.indeed.cl/)
 * [Trabajando](https://www.trabajando.cl/)
+
+## Kenya
+* [Hired Jobs](https://www.hired.co.ke)
+
