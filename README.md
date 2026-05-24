@@ -136,6 +136,7 @@ Contribution guidelines:
 ## Canada
 * [BCjobs.ca](https://www.bcjobs.ca/) (jobs in British Columbia)
 * [CareerBeacon](https://www.careerbeacon.com/)
+* [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) (daily-updated Canadian student internships, co-ops, new grad, junior, and entry-level roles)
 * [Jobillico](https://www.jobillico.com/en)
 * [Monster](https://www.monster.ca/)
 * [WorkBC](https://www.workbc.ca/) (jobs in British Columbia)
