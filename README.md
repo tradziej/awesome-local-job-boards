@@ -56,6 +56,9 @@ Contribution guidelines:
 * [SEEK](https://www.seek.co.nz/)
 
 # Europe
+## Pan-European
+* [EuroJobs.ai](https://eurojobs.ai) (EN, 28,000+ IT jobs across Europe aggregated hourly from employer career pages - Greenhouse, Lever, Ashby, Workable and others. Filters for country, remote, visa sponsorship and English-speaking teams)
+
 ## Austria
 * [zuhausejobs.com](https://zuhausejobs.com) (DE)
 
